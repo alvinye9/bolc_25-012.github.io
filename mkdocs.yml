@@ -1,0 +1,49 @@
+site_name: Purdue-AI-Racing Simulator Documentation
+
+repo_url: https://github.com/alvinye9/Purdue-AI-Racing-Simulator
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+  palette:
+    primary: custom
+    accent: custom
+  features:
+    - navigation.sections
+    - navigation.footer
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+
+nav:
+  - Home: index.md
+
+  - Simulator:
+      - Overview: index.md
+      - ROS2 Interface: RacingSim/ROS2Interface/index.md
+      - Sensors: RacingSim/Sensors/index.md
+      - Vehicle Dynamics: RacingSim/VehicleDynamics/index.md
+      - Purdue AI Racing Gallery: RacingSim/PAIR/index.md
+
+  - Getting started:
+    - PAIRSim Workspace Demo: GettingStarted/QuickStartDemo/index.md
+    - Setup Unity Project: GettingStarted/SetupUnityProject/index.md
+
+
+
+  - Developer guide:
+    # - Trouble shooting: DeveloperGuide/TroubleShooting/index.md
+    - Documentation: DeveloperGuide/Documentation/index.md
+    - License : DeveloperGuide/License/index.md
+    - Contact : DeveloperGuide/Contact/index.md
