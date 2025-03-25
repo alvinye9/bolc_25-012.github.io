@@ -273,18 +273,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#documentation" class="md-nav__link">
+  <a href="#event-calendar" class="md-nav__link">
     <span class="md-ellipsis">
-      Documentation
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#downloading-simulator" class="md-nav__link">
-    <span class="md-ellipsis">
-      Downloading Simulator
+      Event Calendar
     </span>
   </a>
   
@@ -543,18 +534,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#documentation" class="md-nav__link">
+  <a href="#event-calendar" class="md-nav__link">
     <span class="md-ellipsis">
-      Documentation
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#downloading-simulator" class="md-nav__link">
-    <span class="md-ellipsis">
-      Downloading Simulator
+      Event Calendar
     </span>
   </a>
   
@@ -1044,18 +1026,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#documentation" class="md-nav__link">
+  <a href="#event-calendar" class="md-nav__link">
     <span class="md-ellipsis">
-      Documentation
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#downloading-simulator" class="md-nav__link">
-    <span class="md-ellipsis">
-      Downloading Simulator
+      Event Calendar
     </span>
   </a>
   
@@ -1229,44 +1202,46 @@
 
 <h1 id="how-to-use-pairsim">How to Use PAIRSIM</h1>
 <p>A vehicle simulator for the Dallara AV-24. This simulator improves upon the original AWSIM developed by Autoware, and provides a high-fidelity testbed validated against real-world data. Purdue-AI-Racing-Simulator (PAIRSIM) interfaces with an autonomy stack to allow for testing of autonomous racing software with similar dynamics, sensors, and interface to the real car.</p>
-<p><img alt="" src="GettingStarted/QuickStartDemo/Image_top.png" /></p>
-<h2 id="documentation">Documentation</h2>
-<ol>
-<li>
-<p>How to use PAIRSIM(this page)</p>
-</li>
-<li>
-<p><a href="RacingSim/HeadlessMode/">How to Run PAIRSIM in Headless Mode (Batch Mode)</a></p>
-</li>
-<li>
-<p><a href="RacingSim/ROS2Interface/">ROS2 Interface</a></p>
-</li>
-<li>
-<p><a href="RacingSim/VehicleDynamics/">Vehicle dynamics details</a></p>
-</li>
-<li>
-<p><a href="RacingSim/Sensors/">Sensor details</a></p>
-</li>
-</ol>
-<h2 id="downloading-simulator">Downloading Simulator</h2>
-<p>There are two options to run racing simulations:</p>
-<ol>
-<li>
-<p>Download Linux-compatible binary (recommended)</p>
-<p>a. Download the latest PAIRSIM racing simulator <a href="https://github.com/alvinye9/Purdue-AI-Racing-Simulator/releases">here</a></p>
-<p>b. Double-click the downloaded executable (.x86_64)</p>
-<p>c. The first time you may need to set the executable permissions with <code>chmod +x PAIRSIM_vX.X.X.x86_64</code></p>
-</li>
-<li>
-<p>From the Unity Editor</p>
-<p>a. To run directly from the Unity editor, clone the repository and make sure you are on the <code>main</code> git branch.</p>
-<p>b. Follow the instructions in <a href="GettingStarted/SetupUnityProject/">Getting Started - Setup Unity Project</a>.</p>
-<p>c. Download and import <code>.unitypackage</code> files</p>
-<p><a class="md-button md-button--primary" href="https://purdue0-my.sharepoint.com/:f:/g/personal/ye372_purdue_edu/EgUWzDfIwmtFgmzdY9WvvuwBONARgFEiRZvseWVwBZEYpw?e=lvH8AO">Download racetrack assets (unitypackage)</a></p>
-<p>e. In Unity Editor, from the menu bar at the top, select <code>Assets -&gt; Import Package -&gt; Custom Package...</code> and navigate to each <code>.unitypackage</code> file. Ensure that you import each unity package, or the corresponding track will not be available after building your Unity project.
-<img alt="" src="RacingSim/Overview/Image_import1.png" /></p>
-</li>
-</ol>
+<h2 id="event-calendar">Event Calendar</h2>
+<iframe src="https://calendar.google.com/calendar/embed?src=0fed5edbc83dba5e23bc0a66b45fd6c8c061a176f6e7c404f2f9e00fb335e283%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<!-- ![](GettingStarted/QuickStartDemo/Image_top.png)
+
+## Documentation
+1. How to use PAIRSIM(this page)
+
+2. [How to Run PAIRSIM in Headless Mode (Batch Mode)](RacingSim/HeadlessMode/index.md)
+
+3. [ROS2 Interface](RacingSim/ROS2Interface/index.md)
+
+4. [Vehicle dynamics details](RacingSim/VehicleDynamics/index.md)
+
+5. [Sensor details](RacingSim/Sensors/index.md)
+
+## Downloading Simulator
+
+There are two options to run racing simulations:
+
+1. Download Linux-compatible binary (recommended)
+
+    a. Download the latest PAIRSIM racing simulator [here](https://github.com/alvinye9/Purdue-AI-Racing-Simulator/releases)
+
+    b. Double-click the downloaded executable (.x86_64)
+
+    c. The first time you may need to set the executable permissions with ```chmod +x PAIRSIM_vX.X.X.x86_64```
+
+2. From the Unity Editor
+
+    a. To run directly from the Unity editor, clone the repository and make sure you are on the `main` git branch.
+
+    b. Follow the instructions in [Getting Started - Setup Unity Project](GettingStarted/SetupUnityProject/index.md).
+
+    c. Download and import `.unitypackage` files
+
+    [Download racetrack assets (unitypackage)](https://purdue0-my.sharepoint.com/:f:/g/personal/ye372_purdue_edu/EgUWzDfIwmtFgmzdY9WvvuwBONARgFEiRZvseWVwBZEYpw?e=lvH8AO){.md-button .md-button--primary}
+
+    e. In Unity Editor, from the menu bar at the top, select `Assets -> Import Package -> Custom Package...` and navigate to each `.unitypackage` file. Ensure that you import each unity package, or the corresponding track will not be available after building your Unity project.
+![](RacingSim/Overview/Image_import1.png)
 <!-- ![](RacingSim/Overview/Image_import2.png) -->
 
 <h2 id="scenario-setup-via-gui">Scenario Setup (via GUI)</h2>
@@ -1450,7 +1425,7 @@ Due to the large number of vehicle/tire parameters, they are not accessible thro
 <h3 id="lidar-sensors">LiDAR Sensors</h3>
 <p>The publishers for each of the 3 on-board LiDAR sensors will publish a <code>sensor_msgs/PointCloud2.msg</code> if previously enabled in the Sensor Setup menu. All 3 LiDARs can run concurrently with little computational strain.
 You can visualize the point cloud with a visualizer like RVIZ2</p>
-<p><img alt="" src="RacingSim/Overview/Image_LiDAR.png" /></p>
+<p><img alt="" src="RacingSim/Overview/Image_LiDAR.png" /> --&gt;</p>
 <h2 id="copyright-and-license">Copyright and License</h2>
 <p>Copyright 2024 Purdue AI Racing</p>
 <p>All code is licensed under the Apache 2.0 License. All assets are distributed under the CC BY-NC License.</p>
