@@ -1,3 +1,9 @@
 # Contact
 
-e-mail : ye372@purdue.edu or alvin.l.ye.mil@army.mil or alvinye9@gmail.com 
+Any issue/questions/concerns:
+
+preferred method: WhatsApp
+
+text: (917) 863-7713
+
+e-mail : alvinye9@gmail.com 

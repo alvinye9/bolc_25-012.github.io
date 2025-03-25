@@ -1,6 +1,6 @@
-site_name: Purdue-AI-Racing Simulator Documentation
+site_name: BOLC Class 25-012 Documentation
 
-repo_url: https://github.com/alvinye9/Purdue-AI-Racing-Simulator
+repo_url: https://github.com/alvinye9/bolc_25-012.github.io
 
 extra_css:
   - stylesheets/extra.css
@@ -29,21 +29,9 @@ markdown_extensions:
 nav:
   - Home: index.md
 
-  - Simulator:
-      - Overview: index.md
-      - ROS2 Interface: RacingSim/ROS2Interface/index.md
-      - Sensors: RacingSim/Sensors/index.md
-      - Vehicle Dynamics: RacingSim/VehicleDynamics/index.md
-      - Purdue AI Racing Gallery: RacingSim/PAIR/index.md
+  - CONOPs:
+      - Operation 83: Main/OP83/index.md
 
-  - Getting started:
-    - PAIRSim Workspace Demo: GettingStarted/QuickStartDemo/index.md
-    - Setup Unity Project: GettingStarted/SetupUnityProject/index.md
-
-
-
-  - Developer guide:
-    # - Trouble shooting: DeveloperGuide/TroubleShooting/index.md
-    - Documentation: DeveloperGuide/Documentation/index.md
+  - Misc:
     - License : DeveloperGuide/License/index.md
     - Contact : DeveloperGuide/Contact/index.md
