@@ -31,9 +31,12 @@ markdown_extensions:
 nav:
   - Event Calendar: index.md
 
-  - Major Events:
+  - Major Events Past/Upcoming:
       - Flight Physical [26-27 MAR]: Main/Flight_Physical/index.md
       - OP83 [28 MAR]: Main/OP83/index.md
+
+  - Admin:
+      - Flight School Expectations: Main/Expectations/index.md
 
   # - Major Events Planner: Main/Planner/index.md
 
