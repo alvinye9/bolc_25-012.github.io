@@ -10,7 +10,7 @@ To see most recent updates, please refresh the page regularly.
 
 !!! warning
 
-    if the embedded calendar is not appearing, make sure you enable 
+    if the embedded calendar is not appearing, make sure you are logged into your Google account.
 
 
 ## Copyright and License
