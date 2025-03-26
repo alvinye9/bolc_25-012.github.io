@@ -14,6 +14,9 @@ theme:
     - navigation.sections
     - navigation.footer
     - content.tabs.link
+    - navigation.expand
+    - navigation.top
+    - lightbox
   icon:
     repo: fontawesome/brands/github
 
@@ -26,12 +29,13 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - Home: index.md
+  - Event Calendar: index.md
 
-  - CONOPs:
-      - Operation 83: Main/OP83/index.md
+  - Major Events:
+      - Flight Physical [26-27 MAR]: Main/Flight_Physical/index.md
+      - OP83 [28 MAR]: Main/OP83/index.md
 
-  - Events Planner: Main/Planner/index.md
+  # - Major Events Planner: Main/Planner/index.md
 
   - Misc:
     - License : DeveloperGuide/License/index.md

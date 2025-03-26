@@ -1,10 +1,10 @@
 # Operation 83 CONOP
 
-Download CONOP [here](https://1drv.ms/f/c/83144c9a1f1c11f1/Ent2Y58DEJ1Fgq3sVxdfdV8Bos4JPDmg2v7zTT1cL5xxtQ?e=x2j6E1)
+Download CONOP as a .pptx [here](https://1drv.ms/f/c/83144c9a1f1c11f1/Ent2Y58DEJ1Fgq3sVxdfdV8Bos4JPDmg2v7zTT1cL5xxtQ?e=x2j6E1)
 
 ## Mission
 
-BOLC 25-012 and BOLC Bypass personnel  will conduct an aerial familiarization flight aboard a UH-60 to enhance understanding of the airframe and build unit cohesion in a safe and controlled environment.
+BOLC 25-012 and BOLC Bypass personnel  will conduct a flight aboard a UH-60 to enhance understanding of the airframe and build unit cohesion in a safe and controlled environment.
 
 ## Map Layout
 
