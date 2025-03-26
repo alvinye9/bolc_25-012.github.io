@@ -19,6 +19,8 @@ theme:
     - lightbox
   icon:
     repo: fontawesome/brands/github
+  favicon: Icons/1-145.png
+
 
 markdown_extensions:
   - tables
