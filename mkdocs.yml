@@ -24,13 +24,14 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
-  - attr_list
 
 nav:
   - Home: index.md
 
   - CONOPs:
       - Operation 83: Main/OP83/index.md
+
+  - Events Planner: Main/Planner/index.md
 
   - Misc:
     - License : DeveloperGuide/License/index.md
