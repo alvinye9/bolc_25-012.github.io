@@ -1,5 +1,7 @@
 # Home
 
+This is the Unofficial Website for BOLC Class 25-012 Hosted/Developed by 1LT Alvin Ye.
+
 This website and the event calendar will be updated regularly with information related to all BOLC 25-012 events.
 To see most recent updates, please refresh the page regularly.
 
@@ -11,6 +13,10 @@ To see most recent updates, please refresh the page regularly.
 !!! warning
 
     if the embedded calendar is not appearing, make sure you are logged into your Google account.
+
+!!! info
+
+    if you are viewing this website on your phone, use the hamburger menu on the top left to navigate the rest of this site
 
 
 ## Copyright and License
