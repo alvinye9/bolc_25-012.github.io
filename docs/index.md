@@ -9,14 +9,17 @@ To see most recent updates, please refresh the page regularly.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=0fed5edbc83dba5e23bc0a66b45fd6c8c061a176f6e7c404f2f9e00fb335e283%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+!!! info
+
+    We will only have accountability formation on PRT days (reference event calendar). On other days, simply be at the right place/right time.
 
 !!! warning
 
-    if the embedded calendar is not appearing, make sure you are logged into your Google account.
+    If the embedded calendar is not appearing, make sure you are logged into your Google account.
 
 !!! info
 
-    if you are viewing this website on your phone, use the hamburger menu on the top left to navigate the rest of this site
+    If you are viewing this website on your phone, use the hamburger menu on the top left to navigate the rest of this site
 
 
 ## Copyright and License
