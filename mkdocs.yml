@@ -17,8 +17,9 @@ theme:
     - navigation.expand
     - navigation.top
     - lightbox
-  icon:
+  icon: 
     repo: fontawesome/brands/github
+  logo: Icons/1-145.png
   favicon: Icons/1-145.png
 
 

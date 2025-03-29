@@ -4,9 +4,11 @@
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
 | **PRT Leader**    | 1LT Alvin Ye      | TBD         | TBD    | TBD         | DONSA  |
 | **PHASE 1**    | Preparation Drill      | Preparation Drill         | Preparation Drill    | Preparation Drill         | DONSA  |
-| **PHASE 2**   | Gym Day    | Release Run | HIIT Workout     | Frisbee Thursdays | DONSA |
+| **PHASE 2**   | HIIT Workout    | Release Run | Gym Day     | Frisbee Thursdays | DONSA |
 | **PHASE 3** | Recovery Drill   | Recovery Drill | Recovery Drill          | Recovery Drill | DONSA |
 
+!!! info
+    The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 10 APR 2025 
 
 # Preparation Drill Overview
 
