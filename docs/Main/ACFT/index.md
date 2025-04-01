@@ -39,6 +39,7 @@ See embedded google map links:
 - Summer APFU
 - Jacket (pending weather conditions)
 - Appropriate color PT Belt 
+- Water Source
 
 ## Command and Control
 

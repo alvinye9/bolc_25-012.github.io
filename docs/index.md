@@ -3,11 +3,11 @@
 This is the Unofficial Website for BOLC Class 25-012 Hosted/Developed by 1LT Alvin Ye.
 
 This website and the event calendar will be updated regularly with information related to all BOLC 25-012 events.
-To see most recent updates, please refresh the page regularly.
+To see most recent updates, please refresh the page regularly. Direct guidance from cadre supercedes the time/locations detailed in the event calendar.
 
 !!! info
 
-    Calendar Last Major Update: 30 MAR 2025
+    Calendar Last Major Update: 01 APR 2025
 
 ## Event Calendar
 
