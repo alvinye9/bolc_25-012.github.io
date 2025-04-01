@@ -4,11 +4,17 @@
 
 Uniform: ACUs
 1. Full Camelback
+
 2. Pen + Notebook
+
 3. Shooting gloves
+
 4. Eyepro
+
 5. Earpro
+
 6. 2x Canteen pouches
+
 7. 2x Full Canteens
 
 ## On TAPs or FLC:

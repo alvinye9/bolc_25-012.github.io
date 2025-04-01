@@ -38,14 +38,15 @@ nav:
       - Flight Physical: Main/Flight_Physical/index.md
       - OP83 [28 MAR - Complete]: Main/OP83/index.md
       - ACFT [01 APR - Complete]: Main/ACFT/index.md
+      - Memorandum [DUE 14 APR]: Main/Memo/index.md
+      - PRT Schedule [14 APR - 17 APR]: Main/PT/index.md
       
 
   - Admin:
       - Flight School Expectations: Main/Expectations/index.md
-      - PRT Schedule [14 APR - 17 APR]: Main/PT/index.md
-      - Range Packing List: Main/Range/index.md
-
-  # - Major Events Planner: Main/Planner/index.md
+      - Range/Land-Nav Packing List: Main/Range/index.md
+      - Ft. Novosel Blue Book: Main/BlueBook/index.md
+      - Leave/Pass Policy: Main/LeavePass/index.md
 
   - Misc:
     - License : DeveloperGuide/License/index.md
