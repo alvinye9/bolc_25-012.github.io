@@ -2,13 +2,14 @@
 
 |            | Monday               | Tuesday                  | Wednesday             | Thursday               | Friday               |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
-| **PRT Leader**    | 1LT Alvin Ye      | 2LT Friedrichsen         | 2LT Zhang    |    TBD      | DONSA  |
+| **PRT Leader**    | 1LT Alvin Ye      | 2LT Friedrichsen         | 2LT Zhang    |    2LT Fynaardt      | DONSA  |
 | **PHASE 1**    | Preparation Drill      | Preparation Drill         | Preparation Drill    | Preparation Drill         | DONSA  |
 | **PHASE 2**   | HIIT Workout    | Release Run | Gym Day     | Frisbee Thursdays | DONSA |
 | **PHASE 3** | Recovery Drill   | Recovery Drill | Recovery Drill          | Recovery Drill | DONSA |
 
 !!! info
-    -The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 10 APR 2025
+
+    - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 10 APR 2025
 
     - Any equipment around our PT Area, or within the ACFT connexes can be used. 
 

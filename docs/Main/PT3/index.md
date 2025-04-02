@@ -8,6 +8,7 @@
 | **PHASE 3** | Recovery Drill   | Recovery Drill | NO PRT         | Recovery Drill | Recovery Drill |
 
 !!! info
+
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 24 APR 2025.
 
     - Any equipment around our PT Area, or within the ACFT connexes can be used. 

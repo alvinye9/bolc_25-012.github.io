@@ -8,7 +8,8 @@
 | **PHASE 3** | Recovery Drill   | SWIM TEST | Recovery Drill          | Recovery Drill | RUCK RUN |
 
 !!! info
-    -The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 17 APR 2025 
+
+    - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 17 APR 2025 
 
     - Any equipment around our PT Area, or within the ACFT connexes can be used. 
 
