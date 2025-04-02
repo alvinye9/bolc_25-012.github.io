@@ -17,6 +17,8 @@
 
     - Phase 2 of training must not stop sooner than 0650
 
+    - Frisbee Thursdays are sacred, any attempts to subvert them will be punished with execution 
+
 
 # Preparation Drill Overview
 

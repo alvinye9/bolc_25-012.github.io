@@ -2,7 +2,7 @@
 
 |            | Monday               | Tuesday                  | Wednesday             | Thursday               | Friday               |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
-| **PRT Leader**    | TBD      | TBD         | NO PRT    |    TBD      | TBD  |
+| **PRT Leader**    | TBD      | TBD         | NO PRT    |    2LT Brown      | TBD  |
 | **PHASE 1**    | Preparation Drill      | Preparation Drill         | NO PRT   | Preparation Drill         | Preparation Drill  |
 | **PHASE 2**   | HIIT Workout    | Release Run | NO PRT    | Frisbee Thursdays | Gym Day |
 | **PHASE 3** | Recovery Drill   | Recovery Drill | NO PRT         | Recovery Drill | Recovery Drill |
@@ -16,6 +16,8 @@
     - For gym days, please make a training plan that can utilize the facilities in the Fortenberry-Colton Physical Fitness Center, NOT the Fort Novosel Physical Fitness Center.
 
     - Phase 2 of training must not stop sooner than 0650
+
+    - Frisbee Thursdays are sacred, any attempts to subvert them will be punished with execution
 
 
 # Preparation Drill Overview
