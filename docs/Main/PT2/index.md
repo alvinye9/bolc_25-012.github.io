@@ -2,7 +2,7 @@
 
 |            | Monday               | Tuesday                  | Wednesday             | Thursday               | Friday               |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
-| **PRT Leader**    | TBD      | SWIM TEST         | TBD    |    2LT Jones      | RUCK RUN  |
+| **PRT Leader**    | TBD      | SWIM TEST         | 2LT Mouritsen    |    2LT Jones      | RUCK RUN  |
 | **PHASE 1**    | Preparation Drill      | SWIM TEST         | Preparation Drill    | Preparation Drill         | RUCK RUN  |
 | **PHASE 2**   | HIIT Workout    | SWIM TEST |  Gym Day    | Frisbee Thursdays | RUCK RUN |
 | **PHASE 3** | Recovery Drill   | SWIM TEST | Recovery Drill          | Recovery Drill | RUCK RUN |
@@ -13,7 +13,7 @@
 
     - Any equipment around our PT Area, or within the ACFT connexes can be used. 
 
-    - For gym days, please make a training plan that can utilize the facilities in the Fortenberry-Colton Physical Fitness Center, NOT the Fort Novosel Physical Fitness Center.
+    - For gym days, please make a training plan that can utilize the facilities in a cooperative manner (such as working out in pairs with a spotter, etc...)
 
     - Phase 2 of training must not stop sooner than 0650
 

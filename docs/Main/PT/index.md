@@ -13,7 +13,7 @@
 
     - Any equipment around our PT Area, or within the ACFT connexes can be used. 
 
-    - For gym days, please make a training plan that can utilize the facilities in the Fortenberry-Colton Physical Fitness Center, NOT the Fort Novosel Physical Fitness Center. 
+    - For gym days, please make a training plan that can utilize the facilities in a cooperative manner (such as working out in pairs with a spotter, etc...)
 
     - Phase 2 of training must not stop sooner than 0650
 
