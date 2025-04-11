@@ -24,6 +24,6 @@
     - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
 
 
-# More schedule details to follow....
+## More schedule details to follow....
 
 

@@ -25,23 +25,23 @@
 
     - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
 
-# Monday: HI/IT Workout 
+## Monday: HI/IT Workout 
 
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
 
 
-# Tuesday: Release Run
+## Tuesday: Release Run
 
 ![alt text](image-4.png)
 
 ![alt text](image-5.png)
 
-# Wednesday: Gym Day
+## Wednesday: Gym Day
 
 ![alt text](image.png)
 
-# Thursday: Frisbee Day
+## Thursday: Frisbee Day
 
 ![alt text](image-3.png)
