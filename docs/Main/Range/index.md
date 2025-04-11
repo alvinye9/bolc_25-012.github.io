@@ -1,4 +1,4 @@
-# Packing list for M18 and M4 Range 
+# Packing list for Ranges and Land-Nav
 
 ## On Person:
 

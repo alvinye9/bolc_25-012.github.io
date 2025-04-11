@@ -1,72 +1,26 @@
 # PRT Schedule [28 APR - 2 May]
 
-|            | Monday               | Tuesday                  | Wednesday             | Thursday               | Friday               |
+|            | Monday 28 APR              | Tuesday 29 APR                 | Wednesday 30 APR            | Thursday 01 MAY              | Friday 02 MAY              |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
-| **PRT Leader**    | TBD      | TBD         | NO PRT    |    2LT Brown      | TBD  |
+| **PRT Leader**    | TBD      | 2LT Aukland         | NO PRT    |    2LT Brown      | TBD  |
 | **PHASE 1**    | Preparation Drill      | Preparation Drill         | NO PRT   | Preparation Drill         | Preparation Drill  |
-| **PHASE 2**   | HIIT Workout    | Release Run | NO PRT    | Frisbee Thursdays | Gym Day |
+| **PHASE 2**   | HIIT Workout    | Combatives | NO PRT    | Frisbee Thursdays | Gym Day |
 | **PHASE 3** | Recovery Drill   | Recovery Drill | NO PRT         | Recovery Drill | Recovery Drill |
 
 !!! info
 
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 24 APR 2025.
 
-    - Any equipment around our PT Area, or within the ACFT connexes can be used. 
+    - The PRT leader is expected to take accountability after the training is complete
 
-    - For gym days, please make a training plan that can utilize the facilities in a cooperative manner (such as working out in pairs with a spotter, etc...)
+    - Any equipment around our PT Area, or within the ACFT connexes can be used 
+
+    - Speakers are allowed for outside exercises, songs must not contain any profanity
+
+    - During gym days, all exercises must be done in pairs (such as with a spotter)
 
     - Phase 2 of training must not stop sooner than 0650
 
-    - Frisbee Thursdays are sacred, any attempts to subvert them will be punished with execution
+    - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
 
-
-# Preparation Drill Overview
-
-![alt text](army.mil-84285-2010-08-31-100802-1536x614.jpg)
-
-# Recovery Drill Overview
-
-![alt text](max1200-army.mil-84284-2010-08-31-100802.jpg)
-
-# Preparation Drill Steps
-
-1- Bend and Reach
-
-![alt text](bend-and-reach-1.gif)
-
-2- Rear Lunge
-
-![alt text](rear-lunge.gif)
-
-3- High Jumper
-
-![alt text](high-jumper-1.gif)
-
-4- Rower
-
-![alt text](rower.gif)
-
-5- Squat Bender
-
-![alt text](squat-bender.gif)
-
-6- Windmill
-
-![alt text](windmill.gif)
-
-7- Forward Lunge
-
-![alt text](forward-lunge.gif)
-
-8- Prone Row
-
-![alt text](prone-row-1.gif)
-
-9- Bent-Leg Body Twist
-
-![alt text](bent-leg-body-twist.gif)
-
-10- Pushup
-
-![alt text](push-up-1.gif)
-
+# More schedule details to follow....

@@ -40,11 +40,13 @@ nav:
       - ACFT [01 APR - Complete]: Main/ACFT/index.md
       - Online Training [09 APR]: Main/OnlineTraining/index.md
       - Memorandum [DUE 14 APR]: Main/Memo/index.md
+      - Oral Brief [DUE 28 APR]: Main/Brief/index.md
+      
+  - BOLC PRT:
       - PRT Schedule [14 APR - 17 APR]: Main/PT/index.md
       - PRT Schedule [21 APR - 24 APR]: Main/PT2/index.md
       - PRT Schedule [28 APR - 2 May]: Main/PT3/index.md
-      - Oral Brief [DUE 28 APR]: Main/Brief/index.md
-      
+      - Prep/Recovery Drills Overview: Main/PrepRec/index.md
 
   - Admin:
       - Flight School Expectations: Main/Expectations/index.md

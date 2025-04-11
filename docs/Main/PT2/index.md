@@ -1,6 +1,6 @@
 # PRT Schedule [21 APR - 24 APR]
 
-|            | Monday               | Tuesday                  | Wednesday             | Thursday               | Friday               |
+|            | Monday 21 APR              | Tuesday 22 APR                | Wednesday 23 APR            | Thursday 24 APR              | Friday               |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
 | **PRT Leader**    | TBD      | SWIM TEST         | 2LT Mouritsen    |    2LT Jones      | RUCK RUN  |
 | **PHASE 1**    | Preparation Drill      | SWIM TEST         | Preparation Drill    | Preparation Drill         | RUCK RUN  |
@@ -11,61 +11,19 @@
 
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 17 APR 2025 
 
-    - Any equipment around our PT Area, or within the ACFT connexes can be used. 
+    - The PRT leader is expected to take accountability after the training is complete
 
-    - For gym days, please make a training plan that can utilize the facilities in a cooperative manner (such as working out in pairs with a spotter, etc...)
+    - Any equipment around our PT Area, or within the ACFT connexes can be used 
+
+    - Speakers are allowed for outside exercises, songs must not contain any profanity
+
+    - During gym days, all exercises must be done in pairs (such as with a spotter)
 
     - Phase 2 of training must not stop sooner than 0650
 
-    - Frisbee Thursdays are sacred, any attempts to subvert them will be punished with execution
+    - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
 
-# Preparation Drill Overview
 
-![alt text](army.mil-84285-2010-08-31-100802-1536x614.jpg)
+# More schedule details to follow....
 
-# Recovery Drill Overview
-
-![alt text](max1200-army.mil-84284-2010-08-31-100802.jpg)
-
-# Preparation Drill Steps
-
-1- Bend and Reach
-
-![alt text](bend-and-reach-1.gif)
-
-2- Rear Lunge
-
-![alt text](rear-lunge.gif)
-
-3- High Jumper
-
-![alt text](high-jumper-1.gif)
-
-4- Rower
-
-![alt text](rower.gif)
-
-5- Squat Bender
-
-![alt text](squat-bender.gif)
-
-6- Windmill
-
-![alt text](windmill.gif)
-
-7- Forward Lunge
-
-![alt text](forward-lunge.gif)
-
-8- Prone Row
-
-![alt text](prone-row-1.gif)
-
-9- Bent-Leg Body Twist
-
-![alt text](bent-leg-body-twist.gif)
-
-10- Pushup
-
-![alt text](push-up-1.gif)
 
