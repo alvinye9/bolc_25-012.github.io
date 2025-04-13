@@ -26,6 +26,12 @@ To see most recent updates, please refresh the page regularly. Direct guidance f
     If you are viewing this website on your phone, use the hamburger menu on the top left to navigate the rest of this site
 
 
+## Feedback Survey
+
+Please share anonymous feedback on how I could better improve as class leader. This feedback will be shared with 1 PLT cadre and will benefit future BOLC classes.
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Give feedback anonymously">Access the survey here</a>
+
 ## Copyright and License
 
 Copyright 2025 Alvin L. Ye

@@ -9,6 +9,8 @@
 
 !!! info
 
+    - Show up early for accountability at 0550
+    
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 10 APR 2025
 
     - The PRT leader is expected to take accountability after the training is complete
