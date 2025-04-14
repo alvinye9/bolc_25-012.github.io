@@ -9,7 +9,7 @@
 
 !!! info
 
-    - Show up early for accountability at 0550
+    - Show up early for accountability at 0550, Uniform is summer APFU w/ Jacket (no pants)
     
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 10 APR 2025
 
@@ -38,7 +38,7 @@
 
 ![alt text](image-4.png)
 
-![alt text](image-5.png)
+![alt text](image-6.png)
 
 ## Wednesday: Gym Day
 

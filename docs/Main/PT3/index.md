@@ -2,14 +2,14 @@
 
 |            | Monday 28 APR              | Tuesday 29 APR                 | Wednesday 30 APR            | Thursday 01 MAY              | Friday 02 MAY              |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
-| **PRT Leader**    | TBD      | 2LT Aukland         | NO PRT    |    2LT Brown      | TBD  |
+| **PRT Leader**    | 2LT Walters      | 2LT Aukland         | NO PRT    |    2LT Brown      | 2LT Tracey  |
 | **PHASE 1**    | Preparation Drill      | Preparation Drill         | NO PRT   | Preparation Drill         | Preparation Drill  |
 | **PHASE 2**   | HIIT Workout    | Combatives | NO PRT    | Frisbee Thursdays | Gym Day |
-| **PHASE 3** | Recovery Drill   | Recovery Drill | NO PRT         | Recovery Drill | Recovery Drill |
+| **PHASE 3** | Recovery Drill   | Recovery Drill | NO PRT         | Recovery Drill | Self-Stretching |
 
 !!! info
 
-    - Show up early for accountability at 0550
+    - Show up early for accountability at 0550, Uniform is summer APFU w/ Jacket (no pants)
     
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 24 APR 2025.
 
