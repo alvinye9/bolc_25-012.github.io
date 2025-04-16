@@ -21,6 +21,8 @@
 
     - During gym days, all exercises must be done in pairs (such as with a spotter)
 
+    - The recovery drill is optional for Release Runs and Gym Days
+
     - Phase 2 of training must not stop sooner than 0650
 
     - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
