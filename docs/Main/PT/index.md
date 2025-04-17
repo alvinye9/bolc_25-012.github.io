@@ -3,13 +3,13 @@
 |            | Monday 14 APR              | Tuesday 15 APR                 | Wednesday 16 APR            | Thursday 17 APR              | Friday 18 APR              |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
 | **PRT Leader**    | 1LT Alvin Ye      | 2LT Friedrichsen         | 2LT Zhang    |    2LT Fynaardt      | DONSA  |
-| **PHASE 1**    | Preparation Drill      | Preparation Drill         | Preparation Drill    | Preparation Drill         | DONSA  |
+| **PHASE 1**    | Preparation Drill      | Preparation Drill         | Preparation Drill    | Self-Stretching         | DONSA  |
 | **PHASE 2**   | HIIT Workout    | Release Run | Gym Day     | Frisbee Thursdays | DONSA |
-| **PHASE 3** | Recovery Drill   | Self-Stretching | Self-Stretching         | Recovery Drill | DONSA |
+| **PHASE 3** | Recovery Drill   | Self-Stretching | Self-Stretching         | Self-Stretching | DONSA |
 
 !!! info
 
-    - Show up early for accountability at 0550, Uniform is summer APFU w/ Jacket (no pants)
+    - Show up early for accountability at 0550, (0540 for Frisbee Thursdays) Uniform is summer APFU w/ Jacket (no pants)
     
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 10 APR 2025
 
@@ -25,7 +25,8 @@
 
     - Phase 2 of training must not stop sooner than 0650
 
-    - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
+    - If you want to do something different for your PT day please let me know (like swapping HI/IT for a release run instead)
+
 
 ## Monday: HI/IT Workout 
 
@@ -46,4 +47,6 @@
 
 ## Thursday: Frisbee Day
 
-![alt text](image-3.png)
+Show up NLT 0540 to set up cones. See map below:
+
+![alt text](unnamed.jpg)

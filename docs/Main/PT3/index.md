@@ -9,7 +9,7 @@
 
 !!! info
 
-    - Show up early for accountability at 0550, Uniform is summer APFU w/ Jacket (no pants)
+    - Show up early for accountability at 0550 (0540 for Frisbee Thursdays) , Uniform is summer APFU w/ Jacket (no pants)
     
     - The PRT leader is expected to lead all phases of training. Training plan for this week must be sent to 1LT Ye NLT Thursday 24 APR 2025.
 
@@ -25,6 +25,7 @@
 
     - Phase 2 of training must not stop sooner than 0650
 
-    - Frisbee Thursdays are sacred, any attempts to subvert them will be punishable by execution
+    - If you want to do something different for your PT day please let me know (like swapping HI/IT for a release run instead)
+
 
 ## More schedule details to follow....
