@@ -7,7 +7,7 @@ To see most recent updates, please refresh the page regularly. Direct guidance f
 
 !!! info
 
-    Calendar Last Major Update: 07 APR 2025
+    Calendar Last Major Update: 20 APR 2025
 
 ## Event Calendar
 

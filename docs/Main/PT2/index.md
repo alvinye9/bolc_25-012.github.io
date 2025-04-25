@@ -54,8 +54,24 @@ Show up NLT 0540 to set up cones. See map below:
 
 ![alt text](unnamed.jpg)
 
-## Friday: Ruck
+## Friday: 4-Mile Ruck 
 
-More details to follow...
+Time: Form up NLT 0530
+
+Location: SP at the start of the ACFT 2-mile (see below)
+
+Uniform: 
+
+- ACUs 
+- medium or large ruck (35 pounds, not including the weight of water)
+- blue PT belt wrapped around the rucksack
+
+Event: 
+
+- The route for the ruck is 2x around the ACFT track
+- There is a time limit of 1 hour
+- After accountability, you may remove headgear for the duration of the ruck
+
+![alt text](map.png)
 
 
