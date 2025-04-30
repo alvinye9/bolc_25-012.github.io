@@ -3,8 +3,8 @@
 |            | Monday 28 APR              | Tuesday 29 APR                 | Wednesday 30 APR            | Thursday 01 MAY              | Friday 02 MAY              |
 |------------|----------------------|--------------------------|-----------------------|------------------------|----------------------|
 | **PRT Leader**    | 2LT Aukland      | 2LT Walters         | NO PRT    |    2LT Brown      | 2LT Tracey  |
-| **PHASE 1**    | Preparation Drill      | Preparation Drill         | NO PRT   | Self-Stretching         | Preparation Drill  |
-| **PHASE 2**   | Release Run    | HIIT Workout | NO PRT    | Frisbee Thursdays | Gym Day |
+| **PHASE 1**    | Preparation Drill      | Preparation Drill         | NO PRT   | Self-Stretching         | Self-stretching  |
+| **PHASE 2**   | Release Run    | HIIT Workout | NO PRT    | Frisbee Thursdays | VOLLEYBALL |
 | **PHASE 3** | Guided or Self-Stretching   | Recovery Drill | NO PRT         | Self-Stretching | Self-Stretching |
 
 !!! info
@@ -53,6 +53,6 @@ Show up NLT 0545 to set up cones. See map below:
 
 ![alt text](unnamed.jpg)
 
-## Friday: Gym Day
+## Friday: Volleyball
 
-![alt text](image.png)
+Location: Fortenberry Gym
